@@ -1,0 +1,5 @@
+apns:
+  ip: 'api.development.push.apple.com'
+  length: '31'
+  file-path: '/apns/certificate.p12'
+  password: '1q2w3e4r'
